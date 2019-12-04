@@ -5,7 +5,7 @@
 Clone the SocioScan repository using the command in your terminal
 
 ```bash
-git clone https://github.com/skr1p7/shoscan.git
+git clone https://github.com/skr1p7/SocioScan.git
 ```
 
 Use the following command to install all required libraries
